@@ -1,4 +1,5 @@
 # tweetFunnel
+![ファンネル](https://user-images.githubusercontent.com/26806928/170227502-2ce46c94-d63e-42f6-8e7e-00eb53b8f029.png)
 
 ## アーキテクチャ
 <img width="1088" alt="image" src="https://user-images.githubusercontent.com/26806928/170225777-92e651ec-2baf-4675-a02c-8fedb45c2599.png">
